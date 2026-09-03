@@ -1,6 +1,6 @@
 # Hi 👋🏻, Im Kauan Kawasaki
-🚀 **Software Engineer Student 🇧🇷**
-*Java & Kotlin* 
+🚀 **Software Engineer Student, Java & Kotlin** 🇧🇷
+ 
 
 ## 🌐 Where to find me
 
