@@ -35,6 +35,11 @@
 ---
 
 ## 📊 GitHub Stats
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/angelicaweiler/angelicaweiler/output/snake.svg" alt="Snake animation" />
+
+###
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=KAUAN-KAWASAKI&show_icons=true&theme=tokyonight&count_private=true" />
