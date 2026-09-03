@@ -35,16 +35,17 @@
 ---
 
 ## 📊 GitHub Stats
+###
+
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/angelicaweiler/angelicaweiler/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/KAUAN-KAWASAKI/angelicaweiler/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KAUAN-KAWASAKI&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAUAN-KAWASAKI&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/KAUAN-KAWASAKI/count.svg?"  />
+</div>
 
----
+###
 Open to collaborations, partnerships, and cool ideas. : )
