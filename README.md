@@ -57,5 +57,10 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture> 
 
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=KAUAN-KAWASAKI&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 ---
 Open to collaborations, partnerships, and cool ideas. : )
