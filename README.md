@@ -14,9 +14,7 @@
     <a href="https://instagram.com/Kauan_Kawasaki">
     <img src="https://img.shields.io/badge/Instagram-@Kauan_Kawasaki-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-   <a href="https://github.com/KAUAN-KAWASAKi">
-    <img src="https://img.shields.io/badge/GitHub-Kauan Kawasaki-181717?style=for-the-badge&logo=github" />
-  </a>
+
 
  
 ## 🛠️ Tech Stack
