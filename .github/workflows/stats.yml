@@ -1,0 +1,17 @@
+name: Generate Readme Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Executa diariamente à meia-noite
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: readme-tools/github-readme-stats-action@v1
+        with:
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          show_icons: true
+          theme: tokyonight
