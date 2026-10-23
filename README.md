@@ -1,8 +1,9 @@
-# Hi 👋🏻, Im Kauan Kawasaki
-🚀 **Software Engineer Student, Java & Kotlin** 🇧🇷
- 
+# Olá 👋🏻, eu sou o Kauan Kawasaki
+🚀 **Estudante de Engenharia de Software · Engenharia de Dados & Backend** 🇧🇷
 
-## 📌 Where to find me
+Construo pipelines de dados em **Python** e APIs com **Java + Spring Boot**, e desenvolvo sites para pequenos negócios como freelancer.
+
+## 📌 Onde me encontrar
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kauan-kawasaki"> 
@@ -17,6 +18,20 @@
 
 
  
+## 💼 Trabalhos freelance
+
+| Cliente | O que fiz | Stack |
+|---|---|---|
+| [Hoken Ananindeua](https://www.hokenananideua.com.br/) | Landing page de purificadores de água, com pré-renderização no build para carregar rápido | React · Vite · Tailwind CSS |
+
+## 🧭 Em construção
+
+- 📊 **Pipeline de dados** com dados abertos brasileiros (Python, SQL, Docker)
+- ⚙️ **API REST** sobre esses dados (Java, Spring Boot)
+- 🌐 **Site de portfólio** reunindo tudo, com dados ao vivo da API
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend 
@@ -24,12 +39,12 @@
 
 ---
 
-### 🎯 Backend and Frameworks
+### 🎯 Backend e Frameworks
 <img height="10%" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />  <img height="10%" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />  <img height="10%" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" />  <img height="8%" width="8%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 
 --- 
 
-### 🗃️ DataBase
+### 🗃️ Banco de Dados
 <img height="10%" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />    <img height="10%" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
 
 ---
@@ -40,7 +55,7 @@
 
 ---
       
-### OS And Tools
+### 🧰 Sistemas e Ferramentas
 
 <img height="10%" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />  <img height="10%" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" />  <img height="10%" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
           
@@ -48,11 +63,11 @@
 
 ---
 
-## GitHub Stats :bar_chart:
+## 📊 Estatísticas do GitHub
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KAUAN-KAWASAKI/KAUAN-KAWASAKI/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KAUAN-KAWASAKI/KAUAN-KAWASAKI/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KAUAN-KAWASAKI/KAUAN-KAWASAKI/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KAUAN-KAWASAKI/KAUAN-KAWASAKI/output/github-contribution-grid-snake.svg">
 </picture> 
 
 <!-- GitHub Streak Stats -->
@@ -61,4 +76,4 @@
 </p>
 
 ---
-Open to collaborations, partnerships, and cool ideas. : )
+Aberto a oportunidades de estágio e júnior em Dados e Backend, parcerias e projetos freelance. : )
