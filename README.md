@@ -6,6 +6,9 @@ Construo pipelines de dados em **Python** e APIs com **Java + Spring Boot**, e d
 ## 📌 Onde me encontrar
 
 <p align="left">
+  <a href="https://kauan-kawasaki.pages.dev">
+     <img src="https://img.shields.io/badge/Portfólio-kauan--kawasaki.pages.dev-0F766E?style=for-the-badge&logo=cloudflarepages&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/kauan-kawasaki"> 
      <img src="https://img.shields.io/badge/LinkedIn-kauan kawasaki-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -24,11 +27,15 @@ Construo pipelines de dados em **Python** e APIs com **Java + Spring Boot**, e d
 |---|---|---|
 | [Hoken Ananindeua](https://www.hokenananideua.com.br/) | Landing page de purificadores de água, com pré-renderização no build para carregar rápido | React · Vite · Tailwind CSS |
 
-## 🧭 Em construção
+## 🚀 Projetos em destaque
 
-- 📊 **Pipeline de dados** com dados abertos brasileiros (Python, SQL, Docker)
-- ⚙️ **API REST** sobre esses dados (Java, Spring Boot)
-- 🌐 **Site de portfólio** reunindo tudo, com dados ao vivo da API
+Três projetos que funcionam juntos, dos dados brutos até a tela:
+
+| Projeto | O que faz | Stack |
+|---|---|---|
+| 📊 [pipeline-indicadores-bcb](https://github.com/KAUAN-KAWASAKI/pipeline-indicadores-bcb) | Coleta Selic, IPCA e dólar do Banco Central todo dia e grava no MySQL | Python · pandas · MySQL · GitHub Actions · Docker |
+| ⚙️ [api-indicadores-bcb](https://github.com/KAUAN-KAWASAKI/api-indicadores-bcb) | API REST sobre esses dados, com testes, Swagger e CI ([no ar](https://api-indicadores-bcb.onrender.com/swagger-ui.html)) | Java · Spring Boot · JPA · JUnit · Docker |
+| 🌐 [portfolio](https://github.com/KAUAN-KAWASAKI/portfolio) | Meu site, com gráfico ao vivo consumindo a API ([no ar](https://kauan-kawasaki.pages.dev)) | HTML · CSS · JavaScript · Chart.js |
 
 ---
 
