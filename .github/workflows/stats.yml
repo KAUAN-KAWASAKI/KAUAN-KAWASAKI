@@ -1,0 +1,44 @@
+# Gera os cartões de atividade e linguagens do README (stats/*.svg) e salva só quando mudam.
+name: Estatísticas do perfil
+
+on:
+  schedule:
+    - cron: "37 9 * * *" # todo dia às 06:37 de Brasília
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/**
+      - .github/workflows/stats.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: estatisticas
+  cancel-in-progress: false
+
+jobs:
+  cartoes:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Gerar os cartões
+        run: node scripts/gerar-cartoes.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Salvar se mudou
+        run: |
+          git add stats
+          if git diff --cached --quiet; then
+            echo "Nada a salvar."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Atualiza estatísticas do perfil"
+          git push
