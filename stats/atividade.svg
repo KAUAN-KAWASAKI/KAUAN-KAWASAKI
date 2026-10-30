@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="300" viewBox="0 0 480 300" role="img" aria-label="Atividade no último ano">
+  <title>Atividade no último ano</title>
+  <rect x="0.5" y="0.5" width="479" height="299" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <text x="24" y="38" fill="#e6edf3" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600">Atividade no último ano</text>
+  <line x1="164" y1="150" x2="316" y2="150" stroke="#26a641" stroke-width="2"/>
+  <line x1="240" y1="74" x2="240" y2="226" stroke="#26a641" stroke-width="2"/>
+  <polygon points="240,150 240,150 240,153.04 167.04000000000002,150" fill="#26a641" fill-opacity="0.55" stroke="#39d353" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="240" cy="153.04" r="3.5" fill="#0d1117" stroke="#39d353" stroke-width="2"/><circle cx="167.04000000000002" cy="150" r="3.5" fill="#0d1117" stroke="#39d353" stroke-width="2"/>
+  <circle cx="240" cy="150" r="3.5" fill="#0d1117" stroke="#39d353" stroke-width="2"/>
+  <text x="240" y="62" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">Revisões</text>
+  <text x="326" y="154" text-anchor="start" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">Issues</text>
+  <text x="240" y="248" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e"><tspan x="240" fill="#e6edf3" font-weight="600">4%</tspan><tspan x="240" dy="16">Pull requests</tspan></text>
+  <text x="154" y="146" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e"><tspan x="154" fill="#e6edf3" font-weight="600">96%</tspan><tspan x="154" dy="16">Commits</tspan></text>
+</svg>

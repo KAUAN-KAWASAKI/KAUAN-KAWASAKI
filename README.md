@@ -38,6 +38,13 @@ Construo pipelines de dados em **Python** e APIs em **Java com Spring Boot**, e 
   <img alt="Cobrinha percorrendo o calendário de contribuições" src="https://raw.githubusercontent.com/KAUAN-KAWASAKI/KAUAN-KAWASAKI/output/github-contribution-grid-snake.svg">
 </picture>
 
+<p>
+  <img width="49%" alt="Atividade no último ano: commits, pull requests, issues e revisões" src="stats/atividade.svg" />
+  <img width="49%" alt="Linguagens mais usadas nos repositórios públicos" src="stats/linguagens.svg" />
+</p>
+
+Os mesmos números aparecem na aba [Estatísticas do meu portfólio](https://kauan-kawasaki.pages.dev/#estatisticas).
+
 ---
 
 Aberto a estágio e vagas júnior em Dados e Backend, e a projetos freelance.
