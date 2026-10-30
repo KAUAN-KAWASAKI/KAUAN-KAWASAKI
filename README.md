@@ -35,7 +35,7 @@ Três projetos que funcionam juntos, dos dados brutos até a tela:
 |---|---|---|
 | 📊 [pipeline-indicadores-bcb](https://github.com/KAUAN-KAWASAKI/pipeline-indicadores-bcb) | Coleta Selic, IPCA e dólar do Banco Central todo dia e grava no MySQL | Python · pandas · MySQL · GitHub Actions · Docker |
 | ⚙️ [api-indicadores-bcb](https://github.com/KAUAN-KAWASAKI/api-indicadores-bcb) | API REST sobre esses dados, com testes, Swagger e CI ([no ar](https://api-indicadores-bcb.onrender.com/swagger-ui.html)) | Java · Spring Boot · JPA · JUnit · Docker |
-| 🌐 [portfolio](https://github.com/KAUAN-KAWASAKI/portfolio) | Meu site, com gráfico ao vivo consumindo a API ([no ar](https://kauan-kawasaki.pages.dev)) | HTML · CSS · JavaScript · Chart.js |
+| 🌐 [portfolio](https://kauan-kawasaki.pages.dev/) | Meu site, com gráfico ao vivo consumindo a API ([no ar](https://kauan-kawasaki.pages.dev)) | HTML · CSS · JavaScript · Chart.js |
 
 ---
 
