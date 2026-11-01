@@ -46,7 +46,3 @@ Aberto a estágio e vagas júnior. Meu [portfólio](https://kauan-kawasaki.pages
 </p>
 
 Os mesmos números aparecem na aba [Estatísticas do meu portfólio](https://kauan-kawasaki.pages.dev/#estatisticas).
-
----
-
-Aberto a estágio e vagas júnior em Dados e Backend, e a projetos freelance.
