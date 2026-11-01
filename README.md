@@ -1,8 +1,10 @@
 # Olá, eu sou o Kauan Kawasaki 👋🏻
 
-**Estudante de Engenharia de Software · Dados e Backend** 🇧🇷
+**Estudante de Engenharia de Software na UEPA · Engenharia de Dados e Backend** 🇧🇷
 
-Construo pipelines de dados em **Python** e APIs em **Java com Spring Boot**, e faço sites para pequenos negócios como freelancer.
+Transformo ideias em sistemas confiáveis, de pipelines de dados e APIs a aplicações web. Trabalho com **Python** e **Java com Spring Boot**, e faço sites para pequenos negócios como freelancer.
+
+Aberto a estágio e vagas júnior. Meu [portfólio](https://kauan-kawasaki.pages.dev) está no ar, com a Selic lida ao vivo da minha própria API.
 
 <p align="left">
   <a href="https://kauan-kawasaki.pages.dev"><img src="https://img.shields.io/badge/Portfólio-kauan--kawasaki.pages.dev-FF5C1A?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Portfólio" /></a>
