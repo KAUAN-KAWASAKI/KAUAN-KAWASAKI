@@ -4,33 +4,33 @@
   <text x="24" y="38" fill="#e6edf3" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600">Linguagens mais usadas</text>
   <clipPath id="barra"><rect x="24" y="56" width="432" height="10" rx="5"/></clipPath>
   <g clip-path="url(#barra)">
-  <rect x="24.0" y="56" width="227.0" height="10" fill="#b07219" rx="5"/>
-  <rect x="251.0" y="56" width="71.9" height="10" fill="#f1e05a"/>
-  <rect x="322.9" y="56" width="46.0" height="10" fill="#3572A5"/>
-  <rect x="368.9" y="56" width="40.4" height="10" fill="#e34c26"/>
-  <rect x="409.3" y="56" width="22.1" height="10" fill="#663399"/>
-  <rect x="431.4" y="56" width="19.5" height="10" fill="#A97BFF"/>
-  <rect x="450.9" y="56" width="5.1" height="10" fill="#8b949e"/>
+  <rect x="24.0" y="56" width="216.2" height="10" fill="#b07219" rx="5"/>
+  <rect x="240.2" y="56" width="68.5" height="10" fill="#f1e05a"/>
+  <rect x="308.7" y="56" width="64.3" height="10" fill="#3572A5"/>
+  <rect x="373.1" y="56" width="38.5" height="10" fill="#e34c26"/>
+  <rect x="411.6" y="56" width="21.0" height="10" fill="#663399"/>
+  <rect x="432.6" y="56" width="18.6" height="10" fill="#A97BFF"/>
+  <rect x="451.1" y="56" width="4.9" height="10" fill="#8b949e"/>
   </g>
   <circle cx="29" cy="96" r="5" fill="#b07219"/>
   <text x="42" y="100" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e6edf3">Java</text>
-  <text x="220" y="100" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">52,5%</text>
+  <text x="220" y="100" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">50%</text>
   <circle cx="249" cy="96" r="5" fill="#f1e05a"/>
   <text x="262" y="100" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e6edf3">JavaScript</text>
-  <text x="440" y="100" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">16,7%</text>
+  <text x="440" y="100" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">15,9%</text>
   <circle cx="29" cy="126" r="5" fill="#3572A5"/>
   <text x="42" y="130" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e6edf3">Python</text>
-  <text x="220" y="130" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">10,6%</text>
+  <text x="220" y="130" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">14,9%</text>
   <circle cx="249" cy="126" r="5" fill="#e34c26"/>
   <text x="262" y="130" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e6edf3">HTML</text>
-  <text x="440" y="130" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">9,4%</text>
+  <text x="440" y="130" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">8,9%</text>
   <circle cx="29" cy="156" r="5" fill="#663399"/>
   <text x="42" y="160" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e6edf3">CSS</text>
-  <text x="220" y="160" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">5,1%</text>
+  <text x="220" y="160" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">4,9%</text>
   <circle cx="249" cy="156" r="5" fill="#A97BFF"/>
   <text x="262" y="160" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e6edf3">Kotlin</text>
-  <text x="440" y="160" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">4,5%</text>
+  <text x="440" y="160" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">4,3%</text>
   <circle cx="29" cy="186" r="5" fill="#8b949e"/>
   <text x="42" y="190" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e6edf3">Outras</text>
-  <text x="220" y="190" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">1,2%</text>
+  <text x="220" y="190" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">1,1%</text>
 </svg>
