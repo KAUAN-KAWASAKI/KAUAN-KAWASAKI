@@ -2,7 +2,7 @@
 
 **Estudante de Engenharia de Software na UEPA · Engenharia de Dados e Backend** 🇧🇷
 
-Transformo ideias em sistemas confiáveis, de pipelines de dados e APIs a aplicações web. Trabalho com **Python** e **Java com Spring Boot**, e faço sites para pequenos negócios como freelancer.
+Transformo ideias em sistemas confiáveis, pipelines de dados e APIs a aplicações web. Trabalho com **Python** e **Java com Spring Boot**, e faço sites para pequenos negócios como freelancer.
 
 Aberto a estágio e vagas júnior. Meu [portfólio](https://kauan-kawasaki.pages.dev) está no ar, com a Selic lida ao vivo da minha própria API.
 
