@@ -15,8 +15,11 @@ Aberto a estágio e vagas júnior. Meu [portfólio](https://kauan-kawasaki.pages
 
 ## 🚀 Projetos em destaque
 
+- 🦊 [habitu](https://github.com/KAUAN-KAWASAKI/habitu): app web de hábitos com gamificação (XP, níveis, sequências e conquistas) em Kotlin e Spring Boot. [Demo no ar](https://habitu-h3n8.onrender.com/).
 - 📊 [pipeline-indicadores-bcb](https://github.com/KAUAN-KAWASAKI/pipeline-indicadores-bcb): coleta Selic, IPCA e dólar do Banco Central todo dia e grava no MySQL.
 - ⚙️ [api-indicadores-bcb](https://github.com/KAUAN-KAWASAKI/api-indicadores-bcb): API REST em Spring Boot sobre esses dados.
+- 💸 [analisador-gastos](https://github.com/KAUAN-KAWASAKI/analisador-gastos): lê extratos em CSV, classifica os gastos e gera gráficos, com pandas, Matplotlib e pytest.
+- 📦 [delivery-patterns-api](https://github.com/KAUAN-KAWASAKI/delivery-patterns-api): API de pedidos com Strategy, Chain of Responsibility e Facade.
 - 🌐 [Portfólio](https://kauan-kawasaki.pages.dev): meu site, que mostra esses dados ao vivo.
 
 ## 🛠️ Stack
