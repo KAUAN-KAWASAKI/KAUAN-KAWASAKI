@@ -4,12 +4,12 @@
   <text x="24" y="38" fill="#e6edf3" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600">Linguagens mais usadas</text>
   <clipPath id="barra"><rect x="24" y="56" width="432" height="10" rx="5"/></clipPath>
   <g clip-path="url(#barra)">
-  <rect x="24.0" y="56" width="192.3" height="10" fill="#b07219" rx="5"/>
-  <rect x="216.3" y="56" width="83.8" height="10" fill="#e34c26"/>
-  <rect x="300.2" y="56" width="46.6" height="10" fill="#A97BFF"/>
-  <rect x="346.7" y="56" width="39.2" height="10" fill="#f1e05a"/>
-  <rect x="386.0" y="56" width="36.6" height="10" fill="#3572A5"/>
-  <rect x="422.6" y="56" width="19.5" height="10" fill="#f34b7d"/>
+  <rect x="24.0" y="56" width="192.1" height="10" fill="#b07219" rx="5"/>
+  <rect x="216.1" y="56" width="83.7" height="10" fill="#e34c26"/>
+  <rect x="299.8" y="56" width="46.5" height="10" fill="#A97BFF"/>
+  <rect x="346.3" y="56" width="39.8" height="10" fill="#f1e05a"/>
+  <rect x="386.1" y="56" width="36.6" height="10" fill="#3572A5"/>
+  <rect x="422.7" y="56" width="19.4" height="10" fill="#f34b7d"/>
   <rect x="442.1" y="56" width="13.9" height="10" fill="#8b949e"/>
   </g>
   <circle cx="29" cy="96" r="5" fill="#b07219"/>
@@ -23,7 +23,7 @@
   <text x="220" y="130" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">10,8%</text>
   <circle cx="249" cy="126" r="5" fill="#f1e05a"/>
   <text x="262" y="130" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e6edf3">JavaScript</text>
-  <text x="440" y="130" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">9,1%</text>
+  <text x="440" y="130" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">9,2%</text>
   <circle cx="29" cy="156" r="5" fill="#3572A5"/>
   <text x="42" y="160" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#e6edf3">Python</text>
   <text x="220" y="160" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">8,5%</text>
