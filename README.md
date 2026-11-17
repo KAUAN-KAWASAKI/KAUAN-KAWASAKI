@@ -1,51 +1,29 @@
-# Olá, eu sou o Kauan Kawasaki 👋🏻
+## Kauan Kawasaki
 
-**Estudante de Engenharia de Software na UEPA · Engenharia de Dados e Backend** 🇧🇷
+Desenvolvedor Backend em formação, com **Java e Spring Boot**, e base em dados com **Python e SQL**.
+Estudante de Engenharia de Software na UEPA. Aberto a estágio em Backend e Dados.
 
-Transformo ideias em sistemas confiáveis, pipelines de dados e APIs a aplicações web. Trabalho com **Python** e **Java com Spring Boot**, e faço sites para pequenos negócios como freelancer.
+[Portfólio](https://kauan-kawasaki.pages.dev) · [LinkedIn](https://www.linkedin.com/in/kauan-kawasaki) · [E-mail](mailto:kauankawasaki01@gmail.com)
 
-Aberto a estágio e vagas júnior. Meu [portfólio](https://kauan-kawasaki.pages.dev) está no ar, com a Selic lida ao vivo da minha própria API.
+### Projetos
 
-<p align="left">
-  <a href="https://kauan-kawasaki.pages.dev"><img src="https://img.shields.io/badge/Portfólio-kauan--kawasaki.pages.dev-FF5C1A?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Portfólio" /></a>
-  <a href="https://www.linkedin.com/in/kauan-kawasaki"><img src="https://img.shields.io/badge/LinkedIn-kauan--kawasaki-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:kauankawasaki01@gmail.com"><img src="https://img.shields.io/badge/E--mail-kauankawasaki01@gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
-  <a href="https://instagram.com/Kauan_Kawasaki"><img src="https://img.shields.io/badge/Instagram-@Kauan__Kawasaki-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
+| Projeto | O que faz | Stack |
+| --- | --- | --- |
+| [pipeline-indicadores-bcb](https://github.com/KAUAN-KAWASAKI/pipeline-indicadores-bcb) | Coleta Selic, IPCA e dólar do Banco Central todo dia e grava no MySQL com upsert | Python · pandas · MySQL · GitHub Actions |
+| [api-indicadores-bcb](https://github.com/KAUAN-KAWASAKI/api-indicadores-bcb) | API REST sobre esses dados, com filtro por período e erros ProblemDetail | Java · Spring Boot · JPA · JUnit · Docker |
+| [focinho](https://github.com/KAUAN-KAWASAKI/focinho) | Agenda de banho e tosa para pet shops que recusa horários sobrepostos | Java 21 · Spring Boot · Spring Security · MySQL |
+| [analisador-gastos](https://github.com/KAUAN-KAWASAKI/analisador-gastos) | Lê extratos em CSV, classifica os gastos e gera gráficos | Python · pandas · Matplotlib · pytest |
+| [delivery-patterns-api](https://github.com/KAUAN-KAWASAKI/delivery-patterns-api) | API de pedidos com Strategy, Chain of Responsibility e Facade | Java 21 · Spring Boot · JPA · JUnit |
 
-## 🚀 Projetos em destaque
+**Em breve:** Compensa (comparador do custo de uma lista de compras entre mercados) e Alertas de indicadores (aviso por e-mail quando a Selic ou o dólar passam de um limite).
 
-- 🦊 [habitu](https://github.com/KAUAN-KAWASAKI/habitu): app web de hábitos com gamificação (XP, níveis, sequências e conquistas) em Kotlin e Spring Boot. [Demo no ar](https://habitu-h3n8.onrender.com/).
-- 📊 [pipeline-indicadores-bcb](https://github.com/KAUAN-KAWASAKI/pipeline-indicadores-bcb): coleta Selic, IPCA e dólar do Banco Central todo dia e grava no MySQL.
-- ⚙️ [api-indicadores-bcb](https://github.com/KAUAN-KAWASAKI/api-indicadores-bcb): API REST em Spring Boot sobre esses dados.
-- 💸 [analisador-gastos](https://github.com/KAUAN-KAWASAKI/analisador-gastos): lê extratos em CSV, classifica os gastos e gera gráficos, com pandas, Matplotlib e pytest.
-- 📦 [delivery-patterns-api](https://github.com/KAUAN-KAWASAKI/delivery-patterns-api): API de pedidos com Strategy, Chain of Responsibility e Facade.
-- 🌐 [Portfólio](https://kauan-kawasaki.pages.dev): meu site, que mostra esses dados ao vivo.
+### Stack
 
-## 🛠️ Stack
+`Java` `Spring Boot` `Python` `pandas` `SQL` `MySQL` `Docker` `Git` `GitHub Actions`
 
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" />&nbsp;
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" />&nbsp;
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" />&nbsp;
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" title="Kotlin" />&nbsp;
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" />&nbsp;
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" title="HTML" />&nbsp;
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" title="CSS" />&nbsp;
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" />&nbsp;
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" />
-
-## 📊 Atividade
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KAUAN-KAWASAKI/KAUAN-KAWASAKI/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KAUAN-KAWASAKI/KAUAN-KAWASAKI/output/github-contribution-grid-snake.svg">
-  <img alt="Cobrinha percorrendo o calendário de contribuições" src="https://raw.githubusercontent.com/KAUAN-KAWASAKI/KAUAN-KAWASAKI/output/github-contribution-grid-snake.svg">
-</picture>
+### Estatísticas
 
 <p>
   <img width="49%" alt="Atividade no último ano: commits, pull requests, issues e revisões" src="stats/atividade.svg" />
   <img width="49%" alt="Linguagens mais usadas nos repositórios públicos" src="stats/linguagens.svg" />
 </p>
-
-Os mesmos números aparecem na aba [Estatísticas do meu portfólio](https://kauan-kawasaki.pages.dev/#estatisticas).
