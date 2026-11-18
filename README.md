@@ -1,4 +1,4 @@
-## Kauan Kawasaki
+## Hi there, I'm Kauan Kawasaki
 
 Desenvolvedor Backend em formação, com **Java e Spring Boot**, e base em dados com **Python e SQL**.
 Estudante de Engenharia de Software na UEPA. Aberto a estágio em Backend e Dados.
